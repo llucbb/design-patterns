@@ -1,0 +1,17 @@
+org\llucbb\designpatterns\behavioral\chainofresponsibility\impl\Processor.class
+org\llucbb\designpatterns\behavioral\observer\ObserverDemo.class
+org\llucbb\designpatterns\behavioral\chainofresponsibility\impl\LS.class
+org\llucbb\designpatterns\behavioral\strategy\impl\StrategySearch.class
+org\llucbb\designpatterns\behavioral\observer\impl\OctObserver.class
+org\llucbb\designpatterns\behavioral\strategy\StrategyDemo.class
+org\llucbb\designpatterns\behavioral\observer\impl\HexObserver.class
+org\llucbb\designpatterns\behavioral\observer\impl\BinObserver.class
+org\llucbb\designpatterns\behavioral\chainofresponsibility\impl\IR.class
+org\llucbb\designpatterns\behavioral\strategy\impl\BAR.class
+org\llucbb\designpatterns\behavioral\strategy\impl\FOO.class
+org\llucbb\designpatterns\behavioral\observer\Subject.class
+org\llucbb\designpatterns\behavioral\chainofresponsibility\ChainDemo.class
+org\llucbb\designpatterns\behavioral\strategy\impl\StrategySolution.class
+org\llucbb\designpatterns\behavioral\strategy\Strategy.class
+org\llucbb\designpatterns\behavioral\chainofresponsibility\Image.class
+org\llucbb\designpatterns\behavioral\observer\Observer.class
